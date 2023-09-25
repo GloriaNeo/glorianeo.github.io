@@ -20,7 +20,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://glorianeo.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 instagram_username: 'glori-aaa'
 github_username: 'glorianeo'
-medium_username: 'blog.gloria.nxe.com'
+medium_username: 'https://medium.com/@gloria.nxe'
 
 # Build settings
 markdown: kramdown
@@ -37,7 +37,7 @@ pagination:
   enabled: true
 
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
-  debug: false
+  debug: true
 
   # The default document collection to paginate if nothing is specified ('posts' is default)
   collection: 'posts'
@@ -92,7 +92,7 @@ pagination:
 footer_text: '© 2023 Gloria Neo'
 admin_name: 'Gloria Neo'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
-enable_contact: false
+enable_contact: true
 
 #### Phantom Navigation menu
 enable_nav: true
