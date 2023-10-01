@@ -15,12 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello, I'm Gloria Neo."
 email: 'gloria.nxe@gmail.com'
-description: "A Data Scientist and former Architectural Designer, I thrive on infusing innovation and creativity into data-driven solutions."
+description: "Data scientist with a design background, passionate about #dataforgood, to drive meaningful business outcomes while creating a positive impact on the world."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://glorianeo.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 instagram_username: 'glori-aaa'
 github_username: 'glorianeo'
-medium_username: 'https://medium.com/@gloria.nxe'
+medium_username: '@gloria.nxe'
 
 # Build settings
 markdown: kramdown
