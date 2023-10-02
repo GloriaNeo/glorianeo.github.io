@@ -5,9 +5,7 @@ title: 'Singapore Sign Language Recognition through Computer Vision'
 date: 2023-09-15 15:56:00
 categories: Computer Vision
 tags: ComputerVision DataAugmentation TransferLearning Tensorflow Keras YOLO EfficientNet Inception MobileNet Streamlit Deployment
-featured_images:
-  - '/img/posts/05_sgsl_app_1130x770.jpg'
-  - '/img/posts/05-sgsl-recognition2.gif'
+featured_image: '/img/posts/05.png'
 buttons:
   - button_text: 'Visit Project'
     button_icon: 'github'

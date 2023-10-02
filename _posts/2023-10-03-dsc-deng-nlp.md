@@ -5,7 +5,7 @@ title: 'Distinguishing Data Science vs Data Engineering with NLP'
 date: 2023-08-10 15:56:00
 categories: NLP Classification and Sentiment Analysis
 tags: NLP PRAW NLTK LogisticRegression RandomForest NaïveBayes ADABoost SVM
-featured_image: '/img/posts/03_rescue-themes-1130x864-2x.png'
+featured_image: '/img/posts/03.png'
 buttons:
   - button_text: 'Visit Project'
     button_icon: 'github'

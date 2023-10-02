@@ -5,7 +5,7 @@ title: 'Singapore Housing Price Prediction'
 date: 2023-07-27 15:56:00
 categories: Regression
 tags: Numpy Pandas Matplotlib Seaborn LinearRegression LassoRegression RidgeRegression
-featured_image: '/img/posts/03_rescue-themes-1130x864-2x.png'
+featured_image: '/img/posts/02.png'
 buttons:
   - button_text: 'Visit Project'
     button_icon: 'github'

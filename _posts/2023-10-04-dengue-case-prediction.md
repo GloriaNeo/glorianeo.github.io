@@ -5,7 +5,7 @@ title: 'Singapore Dengue Case Prediction'
 date: 2023-08-24 15:56:00
 categories: Time Series
 tags: TimeSeries DataExtraction Scikit-Learn ARIMA/SARIMA ARIMAX/SARIMAX DecisionTree RandomForest SVR
-featured_image: '/img/posts/03_rescue-themes-1130x864-2x.png'
+featured_image: '/img/posts/04.png'
 buttons:
   - button_text: 'Visit Project'
     button_icon: 'github'

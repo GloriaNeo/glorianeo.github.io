@@ -64,6 +64,7 @@ img {
   width: 100%;
 }
 
+
 button.btn, input.btn {
   padding: 12px 35px;
   margin: 2em 0.5em;
@@ -264,7 +265,7 @@ button.btn, input.btn {
     }
   }
   .content {
-    margin-top: 5em;
+    margin-top: 0em;
     margin-left: 5em;
     @include bp-xsmall {
       margin-left: 0;

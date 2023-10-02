@@ -5,7 +5,7 @@ title: 'Climate and Air Quality'
 date: 2023-07-13 15:56:00
 categories: Exploratory Data Analysis
 tags: Numpy Pandas Matplotlib Seaborn
-featured_image: '/img/posts/03_rescue-themes-1130x864-2x.png'
+featured_image: '/img/posts/01.png'
 buttons:
   - button_text: 'Visit Project'
     button_icon: 'github'
