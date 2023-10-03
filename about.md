@@ -3,203 +3,24 @@ layout: inner
 title: About
 permalink: /about/
 ---
-## Markdown
+<br>
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# About Me
 
-[Link to another page](/index.html).
+_You may also check out my [linkedin page](https://www.linkedin.com/in/gloria-neo/) or [download a copy of my CV here](https://drive.google.com/file/d/1Et3m5M-azGCIZO72Y3mi2OTmQ6OHNOby/view?usp=sharing)._
 
-There should be whitespace between paragraphs.
+I'm Gloria Neo, aspiring data scientist and former architectural designer. While my career shift may surprise some, my architectural background has instilled in me attention to detail, a balance of functionality and finesse, efficient teamwork, and problem-solving centered on user needs. These skills, honed in architecture, are now my assets in data science, where my distinctive background and insatiable curiosity offer a unique perspective to my team.
 
-# Header 1
+<br>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## My Design Background
 
-## Header 2
+Before transitioning to data science, I immersed myself in various architectural projects across small and international firms, even stepping into roles with a main contractor. Notably, I led the design and construction of a 28,000sqm tertiary institution in Cambodia, where I seamlessly navigated technical challenges to craft creative, user-centric solutions. During my time in the Architectural, Engineering, and Construction (AEC) Industry, I was an advocate of streamlining Building Information Modelling (BIM) workflows and actively promoted a culture of learning through company-wide training initiatives.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+<br>
 
-### Header 3
+## Data Science
 
-{% highlight js %}
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-{% endhighlight %}
+My journey into data science followed my exposure to the data world through BIM. Enrolling in General Assembly's Data Science Immersive bootcamp marked my decisive leap into this captivating field. Data science is a harmonious blend of the rational and creative, where numbers, formulas, algorithms, and visualizations converge into a dynamic, ever-evolving landscape. Every project brings new learning opportunities, ideal for someone like me who thrives on continuous growth.
 
-{% highlight ruby %}
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-{% endhighlight %}
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
----
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Wide image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-{% highlight txt %}
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-{% endhighlight %}
-
-{% highlight txt %}
-The final element.
-{% endhighlight %}
-
----
-
-## Syntax highlighting
-
-Jekyll has [built in support](https://jekyllrb.com/docs/templates/#code-snippet-highlighting) for syntax highlighting of over 60 languages thanks to [Rouge](http://rouge.jneen.net/).
-
-To render a code block with syntax highlighting, surround your code as follows:
-
-{% highlight markdown %}
-{% raw %}
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
-{% endraw %}
-{% endhighlight %}
-
-[Pygments](http://pygments.org/) styles are present under section 6.0 of `css/style.scss` for customization.
-
-### Examples
-
----
-
-#### Bash
-
-{% highlight bash %}
->_ ssh -i ~/.ssh/id_rsa account@host.com
-account@host:~$
-$ var="my-value"
-$ echo $var
-my-value
-$ logout
-{% endhighlight %}
-
-#### HTML
-
-{% highlight html %}
-<!DOCTYPE html>
-<html>
- <head>
-   <meta charset="UTF-8">
-   <title>title</title>
- </head>
- <body>
-
- </body>
-</html>
-{% endhighlight %}
-
-#### CSS
-
-{% highlight css %}
-/*--------------------------------------------------------------
-	1.0 Defaults
---------------------------------------------------------------*/
-
-@media (min-width: 1200px) {
-  .container {
-    width: 1200px;
-  }
-}
-
-body {
-  background-color: #e9edf0;
-  @extend %opensans;
-  -webkit-font-smoothing: antialiased;
-}
-{% endhighlight %}
-
-#### YAML
-
-{% highlight yaml %}
-### Phantom settings
-paginate: 10
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
-
-#### Phantom Navigation menu
-enable_nav: true
-nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
-{% endhighlight %}
+Above all, I'm passionate about leveraging data for good. I firmly believe in the transformative power of data to revolutionize the world, driving innovation, and creating positive impacts. As we witness the incredible value it brings to countless people, I'm thrilled to be on the forefront of this data-driven revolution.
